@@ -1,2 +1,2 @@
 # baisc
-New begining is better than good idea.
+New beginning is better than good idea.
